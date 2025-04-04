@@ -8,7 +8,7 @@ I'm a passionate **Full Stack Web Developer** who enjoys building clean, user-fr
 - 🌱 I’m currently learning: **React Native** to take my web apps mobile!
 - 💡 Interested in: **Web Development**, UI/UX, and building real-world projects
 - 🤝 I’m open to collaborate on: MERN stack projects, college-level apps, and open-source
-- 📫 How to reach me: [rahul820913@gmail.com](mailto:rahul820913@gmail.com)
+- 📫 How to reach me: [rahul820913@gmail.com](mailto:rahulsm6940@gmail.com)
 - ⚡ Fun fact: I love turning coffee into clean code ☕💻
 
 ## 💼 Tech Stack
