@@ -4,7 +4,6 @@ I'm a passionate **Full Stack Web Developer** who enjoys building clean, user-fr
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on: A **College Portal** using MERN Stack
 - 🌱 I’m currently learning: **React Native** to take my web apps mobile!
 - 💡 Interested in: **Web Development**, UI/UX, and building real-world projects
 - 🤝 I’m open to collaborate on: MERN stack projects, college-level apps, and open-source
